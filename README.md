@@ -4,7 +4,7 @@ A project repository for the Kandi Digital Solutions digital presence and suppor
 
 ## Project overview
 
-Use this repository to document the customer-facing experience, service information, and supporting implementation. The application source and configuration are authoritative for the current technology stack and available features.
+Use this repository to communicate the digital experience and service information clearly. The application source and project configuration are authoritative for the current stack and available features.
 
 ## Getting started
 
