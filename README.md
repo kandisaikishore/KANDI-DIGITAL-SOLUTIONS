@@ -1,5 +1,10 @@
 # Kandi Digital Solutions
 
+## Live Demo / Deployment URL
+
+**Deployment URL:** Not verified yet. Add the confirmed public application URL here after checking the live service. The repository's GitHub URL is the source code, not a deployed application.
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS) [![Issues](https://img.shields.io/github/issues/saikishore2410/KANDI-DIGITAL-SOLUTIONS)](https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS/issues) [![Last Commit](https://img.shields.io/github/last-commit/saikishore2410/KANDI-DIGITAL-SOLUTIONS)](https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS/commits/main)
 
 > A project repository for the Kandi Digital Solutions digital presence and supporting software work.
