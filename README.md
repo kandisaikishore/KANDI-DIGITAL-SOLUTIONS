@@ -1,50 +1,44 @@
 # Kandi Digital Solutions
 
-## Live Demo / Deployment URL
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?logo=github)](https://github.com/kandisaikishore/KANDI-DIGITAL-SOLUTIONS) [![Last Commit](https://img.shields.io/github/last-commit/kandisaikishore/KANDI-DIGITAL-SOLUTIONS)](https://github.com/kandisaikishore/KANDI-DIGITAL-SOLUTIONS/commits/main)
 
-**Deployment URL:** Not verified yet. Add the confirmed public application URL here after checking the live service. The repository's GitHub URL is the source code, not a deployed application.
+A lightweight web project for presenting Kandi Digital Solutions and its digital-service presence. The repository contains a static `index.html` entry point.
 
+## Project goals
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS) [![Issues](https://img.shields.io/github/issues/saikishore2410/KANDI-DIGITAL-SOLUTIONS)](https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS/issues) [![Last Commit](https://img.shields.io/github/last-commit/saikishore2410/KANDI-DIGITAL-SOLUTIONS)](https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS/commits/main)
+- Communicate the business and its digital offerings clearly
+- Provide a straightforward visitor experience
+- Keep content concise, accessible, and easy to maintain
+- Establish a base for service information and contact journeys
 
-> A project repository for the Kandi Digital Solutions digital presence and supporting software work.
+## Technology
 
-## At a glance
+- HTML
+- Static web page structure
 
-- **Purpose:** Use the feature and scope sections below to understand the problem this project addresses.
-- **Getting started:** Follow the repository-specific setup instructions and verify commands against the current source and package scripts.
-- **Configuration:** Keep API keys, database credentials, tokens, and private user data out of commits; configure secrets locally.
-- **Quality checks:** Run the available build, test, and lint commands before submitting changes.
+Review the checked-in source before assuming additional frameworks, backend services, or interactive capabilities.
 
-
-
-A project repository for the Kandi Digital Solutions digital presence and supporting software work.
-
-## Project overview
-
-Use this repository to communicate the digital experience and service information clearly. The application source and project configuration are authoritative for the current stack and available features.
-
-## Getting started
+## Run locally
 
 ```bash
-git clone https://github.com/saikishore2410/KANDI-DIGITAL-SOLUTIONS.git
+git clone https://github.com/kandisaikishore/KANDI-DIGITAL-SOLUTIONS.git
 cd KANDI-DIGITAL-SOLUTIONS
 ```
 
-Install dependencies and run the scripts declared by the project configuration.
+Open `index.html` in a modern browser. A confirmed public deployment URL has not been included; add one after testing the live application.
 
 ## Quality checklist
 
-- Keep service descriptions specific and accurate
-- Check responsive layouts and accessible navigation
-- Verify contact forms, links, and deployed URLs
-- Store credentials in environment variables or a secret manager
-- Document build, deployment, and rollback steps
+- Test the page on mobile, tablet, and desktop
+- Verify links and contact actions
+- Check accessible headings, text contrast, and keyboard navigation
+- Optimize images and other static assets
+- Keep business claims and service descriptions accurate
 
-## Contributions
+## Contributing
 
-Focused improvements and bug reports with reproduction steps are welcome.
+Open an issue with clear reproduction steps or submit a focused pull request with validation notes.
 
 ## License
 
-No license is specified. Add a `LICENSE` file to define permitted reuse.
+No license file is currently declared. Add a `LICENSE` file to define permitted reuse.
